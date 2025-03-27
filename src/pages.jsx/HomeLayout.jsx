@@ -5,7 +5,7 @@ import { Outlet } from 'react-router-dom'
 
 const HomeLayout = () => {
   return (
-    <main className='bg-gradient-to-br  to-[#533a84] from-[#010101] text-white w-full'>
+    <main className='bg-gradient-to-br min-h-screen to-[#533a84] from-[#010101] text-white w-full'>
      
       
       <section className='align-element'>
